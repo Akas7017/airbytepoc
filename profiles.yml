@@ -5,8 +5,8 @@ dbtdemo:
       type: mysql
       server: localhost
       port: 3306
-      database: login
-      schema: login
+      database: airbytepoc
+      schema: airbytepoc
       username: root
       password: akash
       ssl_disabled: True
