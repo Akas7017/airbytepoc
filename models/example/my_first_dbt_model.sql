@@ -40,4 +40,4 @@ with wtt_customerassetsreading as (
 )
 
 select *
-from wtt_customerassetsreading
+from airbytepoc.wtt_customerassetsreading
