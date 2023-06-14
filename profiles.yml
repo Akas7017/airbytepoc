@@ -3,7 +3,7 @@ dbtdemo:
   outputs:
     dev:
       type: mysql
-      server: localhost
+      server: 192.168.1.179
       port: 3306
       database: airbytepoc
       schema: airbytepoc
